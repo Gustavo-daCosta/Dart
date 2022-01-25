@@ -9,7 +9,7 @@ main() {
   
   if (inputPeso != null && inputAltura != null) {
     int peso = int.parse(inputPeso);
-    double altura = double.parse(altura);
+    double altura = double.parse(inputAltura);
 
     double calcIMC = peso / (altura * altura);
     print('Seu IMC é $calcIMC');
