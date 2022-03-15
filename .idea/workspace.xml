@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9118789d-9ffa-43b2-8484-9ce89e5e78a8" name="Changes" comment="" />
+    <list default="true" id="9118789d-9ffa-43b2-8484-9ce89e5e78a8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aulas/balta.io/arrays.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Aulas/balta.io/arrays.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExerciseList/CEV-Algoritmos/EXC044.dart" beforeDir="false" afterPath="$PROJECT_DIR$/ExerciseList/CEV-Algoritmos/EXC044.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExerciseList/CEV-Algoritmos/EXC045.dart" beforeDir="false" afterPath="$PROJECT_DIR$/ExerciseList/CEV-Algoritmos/EXC045.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExerciseList/CEV-Algoritmos/EXC046.dart" beforeDir="false" afterPath="$PROJECT_DIR$/ExerciseList/CEV-Algoritmos/EXC046.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExerciseList/CEV-Algoritmos/EXC047.dart" beforeDir="false" afterPath="$PROJECT_DIR$/ExerciseList/CEV-Algoritmos/EXC047.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExerciseList/CEV-Algoritmos/EXC048.dart" beforeDir="false" afterPath="$PROJECT_DIR$/ExerciseList/CEV-Algoritmos/EXC048.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExerciseList/CEV-Algoritmos/EXC049.dart" beforeDir="false" afterPath="$PROJECT_DIR$/ExerciseList/CEV-Algoritmos/EXC049.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExerciseList/CEV-Algoritmos/EXC050.dart" beforeDir="false" afterPath="$PROJECT_DIR$/ExerciseList/CEV-Algoritmos/EXC050.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExerciseList/CEV-Algoritmos/EXC051.dart" beforeDir="false" afterPath="$PROJECT_DIR$/ExerciseList/CEV-Algoritmos/EXC051.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExerciseList/CEV-Algoritmos/textoEXC.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ExerciseList/CEV-Algoritmos/textoEXC.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExerciseList/hackmd exercises/exc05.dart" beforeDir="false" afterPath="$PROJECT_DIR$/ExerciseList/hackmd exercises/exc05.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios/IMC.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios/calculo_idade.dart" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +65,11 @@
       <workItem from="1641399614115" duration="9611000" />
       <workItem from="1641554706480" duration="365000" />
       <workItem from="1641555110889" duration="203000" />
+      <workItem from="1644628137369" duration="185000" />
+      <workItem from="1644628413488" duration="22000" />
+      <workItem from="1644629134811" duration="124000" />
+      <workItem from="1644629263167" duration="42000" />
+      <workItem from="1644629336986" duration="83000" />
     </task>
     <servers />
   </component>

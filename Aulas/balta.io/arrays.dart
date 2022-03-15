@@ -19,4 +19,16 @@ void main() {
     }
     print('Nome: $nome\n');
   }
+
+
+  List<String> nomes = ["Gustavo", "Carlos", "João"];
+
+  nomes.add("Jorge");
+  print(nomes);
+
+  nomes.remove("Carlos");
+  // nomes.removeAt(1);
+
+  print(nomes);
+  print('Quantidade de nomes na lista: ${nomes.length}');
 }
