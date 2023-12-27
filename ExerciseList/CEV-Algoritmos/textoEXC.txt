@@ -1,43 +1,7 @@
-69) [DESAFIO] Desenvolva um programa que leia o primeiro termo e a razão de uma 
-PA (Progressão Aritmética), mostrando na tela os 10 primeiros elementos da PA e 
-a soma entre todos os valores da sequência.
-
-
-
 70) [DESAFIO] Faça um programa que mostre os 10 primeiros elementos da Sequência 
 de Fibonacci:
 1 1 2 3 5 8 13 21...
 PASSO 08 – VETORES
-
-
-
-71) Faça um programa que preencha automaticamente um vetor numérico com 8 
-posições, conforme abaixo:
-999 999 999 999 999 999 999 999
-0 1 2 3 4 5 6 7
-
-
-
-72) Crie um programa que preencha automaticamente (usando lógica, não apenas 
-atribuindo diretamente) um vetor numérico com 10 posições, conforme abaixo:
-5 10 15 20 25 30 35 40 45 50
-0 1 2 3 4 5 6 7 8 9
-
-
-
-73) Crie um programa que preencha automaticamente (usando lógica, não apenas 
-atribuindo diretamente) um vetor numérico com 10 posições, conforme abaixo:
-9 8 7 6 5 4 3 2 1 0
-0 1 2 3 4 5 6 7 8 9
-
-
-
-74) Crie um programa que preencha automaticamente (usando lógica, não apenas 
-atribuindo diretamente) um vetor numérico com 10 posições, conforme abaixo:
-5 3 5 3 5 3 5 3 5 3
-0 1 2 3 4 5 6 7 8 9
-
-
 
 75) Crie um programa que preencha automaticamente (usando lógica, não apenas 
 atribuindo diretamente) um vetor numérico com 15 posições com os primeiros 
@@ -50,24 +14,6 @@ elementos da sequência de Fibonacci:
 76) Crie um programa que preencha automaticamente um vetor numérico com 7
 números gerados aleatoriamente pelo computador e depois mostre os valores 
 gerados na tela.
-
-
-
-77) Faça um programa que leia 7 nomes de pessoas e guarde-os em um vetor. No 
-final, mostre uma listagem com todos os nomes informados, na ordem inversa 
-daquela em que eles foram informados.
-
-
-
-78) Escreva um programa que leia 15 números e guarde-os em um vetor. No final, 
-mostre o vetor inteiro na tela e em seguida mostre em que posições foram 
-digitados valores que são múltiplos de 10.
-
-
-
-79) Desenvolva um programa que leia 10 números inteiros e guarde-os em um vetor. 
-No final, mostre quais são os números pares que foram digitados e em que 
-posições eles estão armazenados.
 
 
 
